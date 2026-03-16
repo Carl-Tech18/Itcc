@@ -1,0 +1,144 @@
+Interactive Figma Prototype Prompt
+
+Design an interactive accounting dashboard prototype for QuickBooks, a financial management platform for small and medium-sized businesses (SMBs). The design should be modern, clean, and professional, using a white interface with green accents, rounded cards, soft shadows, and a financial SaaS style UI.
+
+Main Screens to Design
+
+1. Login / Welcome Screen
+
+Simple login form (email and password)
+
+“Sign In” button
+
+“Create Account” link
+
+Background illustration of financial charts
+
+Interaction
+
+Clicking Sign In opens the Dashboard
+
+2. Dashboard Screen
+Include a top navigation bar and left sidebar menu.
+
+Sidebar items:
+
+Dashboard
+
+Invoices
+
+Expenses
+
+Payroll
+
+Reports
+
+Integrations
+
+Settings
+
+Dashboard content:
+
+Total Revenue card
+
+Monthly Expenses card
+
+Cash Flow chart
+
+Recent Transactions table
+
+Quick Actions
+
+Create Invoice
+
+Add Expense
+
+Run Payroll
+
+Interaction
+
+Clicking Create Invoice opens Invoice Page
+
+Clicking Add Expense opens Expense Form
+
+Clicking Run Payroll opens Payroll Management
+
+3. Invoice Management Page
+Features:
+
+List of invoices
+
+“Create New Invoice” button
+
+Invoice status (Paid, Pending, Overdue)
+
+Interaction
+
+Clicking Create New Invoice opens a modal form
+
+Users can input:
+
+Client name
+
+Amount
+
+Due date
+
+Clicking Send Invoice returns to invoice list
+
+4. Expense Tracking Page
+Features:
+
+Expense list
+
+Category tags
+
+Upload receipt option
+
+Interaction
+
+Clicking Add Expense opens form modal
+
+Users can enter:
+
+Expense name
+
+Amount
+
+Category
+
+Upload receipt
+
+5. Payroll Management Page
+Features:
+
+Employee list
+
+Salary details
+
+Pay schedule
+
+Interaction
+
+Clicking Generate Pay Stub shows downloadable pay stub preview
+
+6. Integrations Page
+Display cards for business apps (CRM, payment gateways, inventory systems).
+
+Interaction
+
+Clicking Connect App toggles integration status.
+
+Design Requirements
+
+Clean grid-based layout
+
+Use cards for financial summaries
+
+Charts for revenue and expenses
+
+Use interactive buttons, modals, and hover states
+
+Include prototype links between screens
+
+Use Auto Layout and Components for reusable UI
